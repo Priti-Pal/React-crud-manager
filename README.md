@@ -1,1 +1,2 @@
 # React-crud-manager
+This project implements secure user registration and login functionalities, ensuring that passwords are securely handled. Additionally, it performs all CRUD (Create, Read, Update, Delete) operations using various components such as Register, Login, Profile, and Admin. Data is managed and saved to an endpoint with the help of APIs, leveraging Axios for seamless communication between the frontend and backend.
